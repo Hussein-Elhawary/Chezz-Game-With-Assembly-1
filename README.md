@@ -12,33 +12,33 @@ The game uses serial communication between two computers to have the following f
 
 ## Screenshots
 Main Menu
-![App Screenshot](https://drive.google.com/uc?id=1tUB537xtf3ElrFg74HSB-gA-E9wEHbyE)
+![App Screenshot](readme_photos/a.png)
 
 Real Time Chatting Between Two Players
-![App Screenshot](https://drive.google.com/uc?id=13Ag5hszMl4ZX1X4b6IjGvQTXL7w4KW6L)
+![App Screenshot](readme_photos/b.png)
 
 One Player Sign in View
 
-![App Screenshot](https://drive.google.com/uc?id=1p338-EgPIPKnyzzHfhmhkxnQqQJhKNiq)
+![App Screenshot](readme_photos/c.png)
 
 Two Player Sign in View
-![App Screenshot](https://drive.google.com/uc?id=1PFIkIvRQ6IuKLzbEnvtfJdc15jFMjQFW)
+![App Screenshot](readme_photos/d.png)
 
 Showing Each Player Side View
-![App Screenshot](https://drive.google.com/uc?id=1vts3laZ3-e9Zlma9vEos4oJUBclgTWel)
+![App Screenshot](readme_photos/e.png)
 
 Playing With Inline Chatting
-![App Screenshot](https://drive.google.com/uc?id=1ujDldMxehOpaDPjiiH4X_h20qd9j2cik)
+![App Screenshot](readme_photos/f.png)
 
 
 Highliting White Player Available Moves
-![App Screenshot](https://drive.google.com/uc?id=1ujDldMxehOpaDPjiiH4X_h20qd9j2cik)
+![App Screenshot](readme_photos/g.png)
 
 Highliting Black Player Available Moves
-![App Screenshot](https://drive.google.com/uc?id=1ReKMqnWPX2CC95dIYaUFeCDbdQRz5XWw)
+![App Screenshot](readme_photos/h.png)
 
 Announcing the Name Of The Winner and Declaring The Number Of Kills in Each Side
-![App Screenshot](https://drive.google.com/uc?id=10YPbmzBOUWfjz7VdadBNpccprWPN5F3D)
+![App Screenshot](readme_photos/i.png)
 
 
 ## Game Rules
