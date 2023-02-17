@@ -6,13 +6,16 @@ This game is a modified version of normal chess with special rules, this is asse
 
 ## Features
 The game uses serial communication between two computers to have the following features:
-- Real time chatting
-- Playing the chezz game itself including (inline chatting)
+- Real Time Chatting
+- Playing the Chezz Game itself including (inline chatting)
 
 
 ## Screenshots
 Main Menu
 ![App Screenshot](https://drive.google.com/uc?id=1tUB537xtf3ElrFg74HSB-gA-E9wEHbyE)
+
+Real Time Chatting Between Two Players
+![App Screenshot](https://drive.google.com/uc?id=13Ag5hszMl4ZX1X4b6IjGvQTXL7w4KW6L)
 
 One Player Sign in View
 
