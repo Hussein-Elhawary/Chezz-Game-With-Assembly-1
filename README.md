@@ -15,6 +15,7 @@ Main Menu
 ![App Screenshot](https://drive.google.com/uc?id=1tUB537xtf3ElrFg74HSB-gA-E9wEHbyE)
 
 One Player Sign in View
+
 ![App Screenshot](https://drive.google.com/uc?id=1p338-EgPIPKnyzzHfhmhkxnQqQJhKNiq)
 
 ## Game Rules
